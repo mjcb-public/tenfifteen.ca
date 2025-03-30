@@ -1,6 +1,5 @@
 ---
 title: "Linux Support"
-date: 2022-04-10T12:00
 icon: "services/linux-support.png"
 heroHeading: "Linux Support"
 heroSubHeading: "Saving for retirement requires careful planning."

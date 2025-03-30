@@ -1,6 +1,5 @@
 ---
 title: "Palo Alto Networks"
-date: 2022-04-10T12:00
 icon: "services/windows-support.png"
 heroHeading: "Windows Support"
 heroSubHeading: "Preparing and filing your tax return"

@@ -1,6 +1,5 @@
 ---
 title: "Network Design"
-date: 2022-04-10T12:00
 icon: "services/network-design.png"
 heroHeading: "Network Design"
 heroSubHeading: "Expert network advice and guidance when you need it most."

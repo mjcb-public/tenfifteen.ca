@@ -1,6 +1,5 @@
 ---
 title: "Cloud Implementations"
-date: 2022-04-10T12:00
 icon: "services/cloud-implementations.png"
 heroHeading: "Cloud Implementations"
 heroSubHeading: "Are you looking to migrate your existing on-premise Infrastructure to the Cloud? We can help with AWS, Azure and more."

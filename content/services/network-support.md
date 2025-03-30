@@ -1,6 +1,5 @@
 ---
 title: "Network Support"
-date: 2022-04-10T12:00
 icon: "services/network-support.png"
 heroHeading: "Network Support"
 heroSubHeading: "Are you having Network performance issues or other problems? We can help find out what is slowing down your Network."

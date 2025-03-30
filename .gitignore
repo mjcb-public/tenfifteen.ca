@@ -1,3 +1,6 @@
+archetypes/*
+public/*
+resources/*
 *.lock
 *.log
 .DS_Store

@@ -1,6 +1,5 @@
 ---
 title: "Office 365"
-date: 2022-04-10T12:00
 icon: "services/office-365.png"
 heroHeading: "Office 365"
 heroSubHeading: "We offer general accounting on hourly rate or fixed fee"
