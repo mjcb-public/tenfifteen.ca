@@ -11,12 +11,8 @@ theme = "hugo-hero-theme"
     
 [params]
     [params.logo]
-        mobile = "logos/tfs-logo-small.png"
-        mobile_height = "36px"
-        mobile_width = "36px"
-        desktop = "logos/tfs-logo-regular.png"
-        desktop_height = "29px"
-        desktop_width = "217px"
+        mobile = "logos/ten-fifteen-solutions.png"
+        desktop = "logos/ten-fifteen-solutions.png"
         alt = "Ten Fifteen Solutions"
 
     [params.homepage_meta_tags]
